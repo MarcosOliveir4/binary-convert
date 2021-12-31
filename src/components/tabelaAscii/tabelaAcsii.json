@@ -1,0 +1,14 @@
+{
+  "data": [
+    { "char": "(nul)", "dec": "0", "oct": "0000", "hex": "0x00" },
+    { "char": "(soh)", "dec": "1", "oct": "0001", "hex": "0x01" },
+    { "char": "(stx)", "dec": "2", "oct": "0002", "hex": "0x02" },
+    { "char": "(etx)", "dec": "3", "oct": "0003", "hex": "0x03" },
+    { "char": "(eot)", "dec": "4", "oct": "0004", "hex": "0x04" },
+    { "char": "(enq)", "dec": "5", "oct": "0005", "hex": "0x05" },
+    { "char": "(ack)", "dec": "6", "oct": "0006", "hex": "0x06" },
+    { "char": "(bel)", "dec": "7", "oct": "0007", "hex": "0x07" },
+    { "char": "(bs)", "dec": "8", "oct": "0010", "hex": "0x08" },
+    { "char": "(ht)", "dec": "9", "oct": "0011", "hex": "0x09" }
+  ]
+}
